@@ -1,0 +1,95 @@
+body {
+    background-color: black;
+    font-family: Montserrat;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+  }
+  
+  .margen {
+    color: #161b1e;
+    font-size: 16px;
+  }
+  
+  .imagenboton {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+  }
+  
+  .imagenportada {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
+  
+  .letratitle {
+    font-size: 27.2px;
+    margin-top: 40px;
+  }
+  
+  .nav {
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: orange;
+    padding: 0px
+  }
+  
+  
+  .menu {
+    padding: 10px;
+    display: none;
+    
+  }
+  
+  .mihr {
+    border-color: orange;
+  }
+  
+  .tarjeta {
+    background-color: orange;
+    width: 333px;
+    max-width: 1000px;
+    margin: 0 auto 40px auto;
+  }
+  
+  .imgtarjeta {
+    width: 333px;
+    max-height: 500px;
+    object-fit: cover;
+  }
+  
+  .tarjetabody {
+    padding: 10px;
+  }
+  
+  .tarjetatitle {
+    font-size: 20px;
+  }
+  
+  .tarjetatexto{
+    font-size: 14px;
+  }
+  
+  .elbesetee{
+    font-size: 20px;
+    list-style-type: none;
+  }
+  
+  .divinicio{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    font-size: 20px;
+    top: 45px;
+    left: 20px;
+  }
